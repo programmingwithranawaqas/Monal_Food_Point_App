@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RDIT29</string>
+    <string name="mpheader">MONAL Food Point</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_the_pin_password">Enter the pin password</string>
+    <string name="enter_the_confirm_pin_password">Re-enter the pin password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="confirm_password_can_t_be_empty">Confirm Password can\'t be empty</string>
+    <string name="password_can_t_be_empty">Password can\'t be empty</string>
+    <string name="username_can_t_be_empty">Username can\'t be empty</string>
+    <string name="password_mis_matched">Password mis-matched</string>
+</resources>
