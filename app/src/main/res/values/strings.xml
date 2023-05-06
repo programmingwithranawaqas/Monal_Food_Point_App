@@ -10,4 +10,6 @@
     <string name="password_can_t_be_empty">Password can\'t be empty</string>
     <string name="username_can_t_be_empty">Username can\'t be empty</string>
     <string name="password_mis_matched">Password mis-matched</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

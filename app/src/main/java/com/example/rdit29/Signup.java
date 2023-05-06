@@ -58,9 +58,11 @@ public class Signup extends AppCompatActivity {
                     {
                         SharedPreferences sPreferences = getSharedPreferences("USERSFILE",MODE_PRIVATE);
                         SharedPreferences.Editor editor = sPreferences.edit();
+
                         editor.putString("un", username);
                         editor.putString("pass", password);
                         editor.commit();
+
                         Toast.makeText(Signup.this, "Account Created Successfully", Toast.LENGTH_SHORT).show();
                         reDirect();
                     }
